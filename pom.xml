@@ -11,6 +11,7 @@
     <modules>
         <module>UdemySpringBootInPractice</module>
         <module>CourseraCompliers</module>
+        <module>UdemyJavaInDepth</module>
     </modules>
 
 
